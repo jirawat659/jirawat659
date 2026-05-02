@@ -1,37 +1,92 @@
-# Hi there, I'm Jirawat Junlawatilert 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there,%20I'm%20Jirawat!&fontSize=50&fontAlignY=35&desc=Full-stack%20Dev%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling" />
+</div>
 
-### 👨‍💻 About Me
-- 🎓 **3rd-year Computer Science Student** at the Faculty of Science, passionate about software development and building impactful solutions.
-- 🎯 **Currently focused on:** Full-stack Web Development and Cyber Security.
-- 💡 **Deep diving into:** API Integrations and Backend Architecture.
-- 💬 **Ask me about:** JavaScript, Python, HTML/CSS, Dart, C, and IoT (ESP32).
-- 📫 **Reach me at:** [hongtae32548@gmail.com](mailto:hongtae32548@gmail.com)
-- ⚡ **Motto:** "คิดก่อน."
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=3rd-Year+Computer+Science+Student;Passionate+about+Full-stack+Development;Exploring+Cyber+Security;Building+IoT+with+ESP32" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<br>
 
-### 🚀 Featured Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/Motto-%22%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99.%22-0052CC?style=for-the-badge&logo=quote" />
+</div>
 
-- 🤖 **[CPR-IoT](https://github.com/jirawat659/CPR-IoT)**  
-  An IoT project utilizing ESP32 and various sensors integrated into a CPR training dummy. It transmits real-time data to a web dashboard for easy monitoring and analysis.
-
-- 📋 **[Activity-System](https://github.com/jirawat659/Activity-System)**  
-  A university activity management system designed to streamline the creation of activity blueprints and handle multi-step approval workflows efficiently.
-
-- 🎬 **[My-web-rentmovie](https://github.com/jirawat659/My-web-rentmovie)**  
-  My first proud project! A movie management web application that displays a variety of movie posters, giving it the feel of a real streaming platform interface.
+<br>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="left" width="60%" style="border: none;">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🎓 <b>Education:</b> 3rd-year Computer Science Student, Faculty of Science</li>
+        <li>🎯 <b>Current Focus:</b> Full-stack Web Development & Cyber Security</li>
+        <li>💡 <b>Deep Diving Into:</b> API Integrations & Backend Architecture</li>
+        <li>💬 <b>Ask Me About:</b> JavaScript, Python, Dart, C, HTML/CSS, and ESP32</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:hongtae32548@gmail.com">hongtae32548@gmail.com</a></li>
+      </ul>
+    </td>
+    <td align="center" width="40%" style="border: none;">
+      <img src="https://github.com/741127/741127/raw/main/assets/developer.gif" width="250" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+---
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center"><i>ภาษาและเครื่องมือที่ใช้ในการพัฒนา</i></p>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,dart,c" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postman,git,github,vscode" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center"><i>โปรเจกต์เด่นๆ ที่ภูมิใจนำเสนอ</i></p>
+
+<div align="center">
+  <a href="https://github.com/jirawat659/CPR-IoT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirawat659&repo=CPR-IoT&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/jirawat659/Activity-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirawat659&repo=Activity-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/jirawat659/My-web-rentmovie">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirawat659&repo=My-web-rentmovie&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jirawat659&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirawat659&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirawat659&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="80%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
