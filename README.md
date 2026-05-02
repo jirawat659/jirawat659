@@ -1,66 +1,37 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Jirawat!&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Student%20👨‍💻&descAlignY=55" />
-</div>
+# Hi there, I'm Jirawat Junlawatilert 👋
 
-<h3 align="center">A passionate 3rd-year Computer Science student from the Faculty of Science.</h3>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
-</div>
+### 👨‍💻 About Me
+- 🎓 **3rd-year Computer Science Student** at the Faculty of Science, passionate about software development and building impactful solutions.
+- 🎯 **Currently focused on:** Full-stack Web Development and Cyber Security.
+- 💡 **Deep diving into:** API Integrations and Backend Architecture.
+- 💬 **Ask me about:** JavaScript, Python, HTML/CSS, Dart, C, and IoT (ESP32).
+- 📫 **Reach me at:** [hongtae32548@gmail.com](mailto:hongtae32548@gmail.com)
+- ⚡ **Motto:** "คิดก่อน."
 
 ---
 
-### 👨‍🎓 About Me
+### 🚀 Featured Projects
 
-- 🏫 **Currently Studying:** 3rd Year, B.S. in Computer Science, Faculty of Science
-- 💻 **Interests:** Web Development, Software Engineering, and Exploring New Technologies.
-- 🌱 **Currently Learning:** Advanced Web Frameworks, Data Structures & Algorithms.
-- 🤔 **Looking for:** Internships / Opportunities to apply my skills in real-world projects.
-- 📫 **How to reach me:** [hongtae32548@gmail.com]
-- ⚡ **Motto:** "คิดก่อน." (Think first.)
+- 🤖 **[CPR-IoT](https://github.com/jirawat659/CPR-IoT)**  
+  An IoT project utilizing ESP32 and various sensors integrated into a CPR training dummy. It transmits real-time data to a web dashboard for easy monitoring and analysis.
 
----
+- 📋 **[Activity-System](https://github.com/jirawat659/Activity-System)**  
+  A university activity management system designed to streamline the creation of activity blueprints and handle multi-step approval workflows efficiently.
 
-### 🛠️ Languages and Tools
-
-<div align="center">
-  <h4>Frontend & Design</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
-  </a>
-  <br />
-  <br />
-  <h4>Backend & Languages</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,nodejs,mysql" />
-  </a>
-  <br />
-  <br />
-  <h4>Tools</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
-</div>
+- 🎬 **[My-web-rentmovie](https://github.com/jirawat659/My-web-rentmovie)**  
+  My first proud project! A movie management web application that displays a variety of movie posters, giving it the feel of a real streaming platform interface.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirawat659&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirawat659&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirawat659&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
