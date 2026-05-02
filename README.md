@@ -69,24 +69,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirawat659&repo=My-web-rentmovie&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
-
-<br>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirawat659&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirawat659&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirawat659&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="80%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-</div>
