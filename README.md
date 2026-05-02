@@ -18,7 +18,7 @@
 - 💻 **Interests:** Web Development, Software Engineering, and Exploring New Technologies.
 - 🌱 **Currently Learning:** Advanced Web Frameworks, Data Structures & Algorithms.
 - 🤔 **Looking for:** Internships / Opportunities to apply my skills in real-world projects.
-- 📫 **How to reach me:** [Insert your email/LinkedIn here]
+- 📫 **How to reach me:** [hongtae32548@gmail.com]
 - ⚡ **Motto:** "คิดก่อน." (Think first.)
 
 ---
